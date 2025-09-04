@@ -4,7 +4,7 @@ import omelette from "../assets/images/image-omelette.jpeg"
 const Body = () => {
     return (
         <div className='bg-white w-1/2 flex flex-col items-center justify-center rounded-3xl'>
-            <div className='p-10 space-y-6'>
+            <div className='p-10 space-y-8'>
                 <img src={omelette} alt="omelette" className='rounded-md' />
 
                 <h1 className='text-4xl text-stone-900 font-normal font-young-serif'>Simple Omelette Recipe </h1>
