@@ -15,7 +15,7 @@ const Body = () => {
 
 
                 <div className='p-7 rounded-xl bg-rose-50'>
-                    <h3 className='text-rose-800 font-semibold text-xl my-2'>Preparation time</h3>
+                    <h2 className='text-rose-800 font-semibold text-xl my-2'>Preparation time</h2>
                     <ul className='list-disc list-outside marker:text-rose-800 pl-7 space-y-1'>
                         <li className='pl-2'><strong>Total:</strong> Approximately 10 minutes</li>
                         <li className='pl-2'><strong>Preparation:</strong> 5 minutes</li>
